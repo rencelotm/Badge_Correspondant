@@ -14,4 +14,4 @@ app.get('/', (req, res) => {
 
 
 app.use(express.static('pages'));
-app.listen(8080);
+app.listen(1337);
